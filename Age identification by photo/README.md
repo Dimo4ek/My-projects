@@ -14,10 +14,11 @@ We have at our disposal a set of photos of people with an indication of their ag
 
 
 ### Libraries used in the study
-* matplotlib
-* numpy
-* pandas
-* tensorflow.keras
+* Matplotlib
+* NumPy
+* Pandas
+* Python
+* Tensorflow.Keras
 
 <br>
 
@@ -36,7 +37,8 @@ We have at our disposal a set of photos of people with an indication of their ag
 
 
 ### Используемые библиотеки в исследовании
-* matplotlib
-* numpy
-* pandas
-* tensorflow.keras
+* Matplotlib
+* NumPy
+* Pandas
+* Python
+* Tensorflow.Keras
