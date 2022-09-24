@@ -8,8 +8,8 @@ The credit department of the bank asks to find out whether the marital status an
 Based on the results of the study, a credit scoring model will be built, which will assess the ability of a potential borrower to repay a loan to a bank.
 
 ### Libraries used in the study
-* pandas
-* pymystem3
+* Pandas
+* Pymystem3
 
 <br>
 
@@ -22,5 +22,5 @@ Based on the results of the study, a credit scoring model will be built, which w
 По результатам исследования будет построена модель кредитного скоринга, которая позволит оценить способность потенциального заемщика погасить кредит банку.
 
 ### Используемые библиотеки в исследовании
-* pandas
-* pymystem3
+* Pandas
+* Pymystem3
