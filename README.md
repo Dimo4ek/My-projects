@@ -1,7 +1,7 @@
 # My-projects
 ## English - name, description of the project and the libraries used
 
-These are my educational projects that were carried out during my studies at Yandex.Workshop:
+These are my educational projects that were carried out during my studies at Yandex.Practicum:
 1. Age determination by photo
 2. Choosing an oil field
 3. Forecast of customer outflow
