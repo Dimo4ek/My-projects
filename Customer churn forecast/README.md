@@ -13,10 +13,11 @@ Additionally, you need to measure AUC-ROC, compare its value with the F1-measure
 Data source: https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
 
 ### Libraries used in the study
-* matplotlib
-* numpy
-* pandas
-* sklearn
+* Matplotlib
+* NumPy
+* Pandas
+* Python
+* Scikit-learn
 
 <br>
 
@@ -36,7 +37,8 @@ Data source: https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
 
 
 ### Используемые библиотеки в исследовании
-* matplotlib
-* numpy
-* pandas
-* sklearn
+* Matplotlib
+* NumPy
+* Pandas
+* Python
+* Scikit-learn
