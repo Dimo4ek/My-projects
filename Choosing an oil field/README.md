@@ -25,11 +25,12 @@ Synthetic data: details of contracts and characteristics of deposits are not dis
 
 
 ### Libraries used in the study
-* matplotlib
-* numpy
-* pandas
-* sklearn
-* scipy
+* Matplotlib
+* NumPy
+* Pandas
+* Python
+* Scikit-learn
+* SciPy
 
 <br>
 
@@ -59,8 +60,9 @@ Synthetic data: details of contracts and characteristics of deposits are not dis
 
 
 ### Используемые библиотеки в исследовании
-* matplotlib
-* numpy 
-* pandas
-* sklearn
-* scipy
+* Matplotlib
+* NumPy
+* Pandas
+* Python
+* Scikit-learn
+* SciPy
