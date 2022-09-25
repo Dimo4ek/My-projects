@@ -1,5 +1,5 @@
 
-## English - name, description of the project and the libraries used
+## English -  the name, description of the project, libraries and tools used, the output of the project and the status of the project.
 
 # Age identification by photo
 
@@ -33,7 +33,7 @@ The model will not be able to help with the second task, because the error is to
 ## Project status - completed
 <br>
 
-## Русский - название, описание проекта и используемые библиотеки
+## Русский - название, описание проекта, используемые библиотеки и инструменты, вывод проекта и статус проекта.
 
 #  Идентификация возраста по фото
 
