@@ -1,6 +1,5 @@
 
-## English - name, description of the project and the libraries used
-
+## English - the name, description of the project, libraries and tools used, the output of the project and the status of the project
 # Choosing an oil field
 The customer is an oil producing company. We need to decide for them where to drill a new well.
 
@@ -32,9 +31,18 @@ Synthetic data: details of contracts and characteristics of deposits are not dis
 * Scikit-learn
 * SciPy
 
+### Conclusion
+Based on the conducted research and calculations, I propose to develop deposits in the second region.
+
+Justifications for choosing a region:
+Despite the fact that in this region the profit on the top 200 wells is the smallest of the three regions and amounts to 2415086696.68 rubles, but in this region we have the least risk of making a loss.
+The risk of loss in the second region is only 0.3%, which is about 20 times lower than the risks of the first and third regions.
+Such low risks are associated with the fact that in the second region the square root of the average quadratic error is only 0.89 thousand barrels, which is 40-45 times less than in the first and third regions.
+
+## Project status - completed
 <br>
 
-## Русский - название, описание проекта и используемые библиотеки
+## Русский - название, описание проекта, используемые библиотеки и инструменты, вывод проекта и статус проекта.
 
 #  Выбор месторождения нефти
 Заказчик - нефтедобывающая компания. Нужно решить для них, где бурить новую скважину.
@@ -66,3 +74,13 @@ Synthetic data: details of contracts and characteristics of deposits are not dis
 * Python
 * Scikit-learn
 * SciPy
+
+### Вывод
+На основании проведённого исследования и расчётов предлагаю производить разработку месторождений во втором регионе.
+
+Обоснования выбора региона:
+Не смотря на то, что в данном регионе прибыль на 200 лучших скважинах наименьшая из трёх регионов и составляет 2415086696.68 рублей, но в данном регионе мы имеем наименьшие риски получить убыток.
+Риск убытка во втором регионе составляет всего 0,3%, что примерно в 20 раз ниже рисков первого и третьего регионов.
+Такие низкие риски связаны с тем, что во втором регионе квадратный корень из средней квадратичной ошибки составляет всего 0.89 тыс. баррелей, что 40-45 раз меньше, чем в первом и третьем регионе.
+
+## Статус проекта - завершен
