@@ -31,32 +31,32 @@ These are my educational projects that were carried out during my studies at Yan
 * Project technology stack - NumPy, Pandas, Python, Scikit-learn
 
 8. Optimization of expenses at the metallurgical plant - [Link](https://github.com/Dimo4ek/My-projects/tree/main/Optimization%20of%20expenses%20at%20the%20metallurgical%20plant/ "Link to the project - Optimization of expenses at the metallurgical plant")
-* Project description - 
-* Project technology stack -
+* Project description - We need to build a model that will predict the temperature of steel after all stages of processing in production at a metallurgical plant. In order to optimize production costs, the metallurgical plant decided to reduce electricity consumption at the steel processing stage.
+* Project technology stack - Matplotlib, NumPy, Pandas, Python, Seaborne, Scikit-learn
 
 9. Prediction of the price of a car with mileage - [Link](https://github.com/Dimo4ek/My-projects/tree/main/Prediction%20of%20the%20price%20of%20a%20car%20with%20mileage/ "Link to the project - Prediction of the price of a car with mileage")
-* Project description - 
-* Project technology stack -
+* Project description - We need to build a model to determine the cost of cars. The service for the sale of used cars is developing an application to attract new customers. In it, you can quickly find out the market value of your car. Historical data is at your disposal: technical specifications, complete sets and prices of cars.
+* Project technology stack - CatBoost, LightGBM, Matplotlib, NumPy, Pandas, Python, Seaborn, Scikit-learn
 
 10. Processing of gold ore - [Link](https://github.com/Dimo4ek/My-projects/tree/main/Processing%20of%20gold%20ore/ "Link to the project - Processing of gold ore")
-* Project description - 
-* Project technology stack -
+* Project description - It is required to prepare a prototype of a machine learning model for an industrial enterprise of the gold mining industry. The model will help optimize production so as not to launch an enterprise with unprofitable characteristics. The model should predict the recovery rate of gold from gold-bearing ore. We use data with extraction and purification parameters.
+* Project technology stack - Matplotlib, NumPy, Pandas, Python, Seaborn, Scikit-learn
 
 11. Reliability of borrowers - [Link](https://github.com/Dimo4ek/My-projects/tree/main/Reliability%20of%20borrowers/ "Link to the project - Reliability of borrowers")
-* Project description - 
-* Project technology stack -
+* Project description - The credit department of the bank asks to find out whether the marital status and the number of children of the client affect the fact of repayment of the loan on time. Statistical data on the solvency of customers are provided for the study. Based on the results of the study, a credit scoring model will be built, which will assess the ability of a potential borrower to repay a loan to a bank.
+* Project technology stack - Pandas, Pymystem3, Python
 
 12. Research of mobile operator tariffs - [Link](https://github.com/Dimo4ek/My-projects/tree/main/Research%20of%20mobile%20operator%20tariffs/ "Link to the project - Research of mobile operator tariffs")
-* Project description - 
-* Project technology stack -
+* Project description - The mobile operator offers customers two tariff plans: "Smart" and "Ultra". To decide which tariff to allocate more advertising budget for, you need to understand which tariff brings more money. It is necessary to make a preliminary analysis of tariffs on a small sample of customers. You have at your disposal the data of 500 customers: who they are, from where, what tariff they use, how many calls and messages each sent in 2018. It is necessary to analyze the behavior of customers and conclude which tariff is better.
+* Project technology stack - Math, Matplotlib, NumPy, Pandas, Python, Seaborn, Scikit-учиться, Scipy 
 
 13. Research on the success of games - [Link](https://github.com/Dimo4ek/My-projects/tree/main/Research%20on%20the%20success%20of%20games "Link to the project - Research on the success of games")
-* Project description - 
-* Project technology stack -
+* Project description - We have historical data on game sales, user and expert ratings, genres and platforms (PC, Xbox, PlayStation, etc.). It is necessary to identify patterns that determine the success of the game. This will allow you to bet on a potentially popular product and plan advertising campaigns for the sale of online store games for the next year.
+* Project technology stack - Matplotlib, NumPy, Pandas, Python, Seaborn, Scipy
 
 14. The real estate market of St. Petersburg - [Link](https://github.com/Dimo4ek/My-projects/tree/main/St.%20Petersburg%20real%20estate%20market/ "Link to the project - The real estate market of St. Petersburg")
-* Project description - 
-* Project technology stack -
+* Project description - We have an archive of ads for the sale of apartments in St. Petersburg and neighboring settlements for several years. You need to learn how to determine the market value of real estate. The task is to set the parameters. This will allow you to build an automated system: it will track anomalies and fraudulent activity.
+* Project technology stack - Matplotlib, Pandas, Python
 
 ### Libraries and tools used in projects
 * CatBoost
@@ -104,32 +104,32 @@ These are my educational projects that were carried out during my studies at Yan
 * Стек технологий проекта - NumPy, Pandas, Python, Scikit-learn
 
 8. Оптимизация затрат на металлургическом заводе - [Ссылка](https://github.com/Dimo4ek/My-projects/tree/main/Optimization%20of%20expenses%20at%20the%20metallurgical%20plant/ "Ссылка на проект -  Оптимизация затрат на металлургическом заводе")
-* Описание проекта -
-* Стек технологий проекта -
+* Описание проекта - Нам требуется построить модель, которая будет предсказывать температуру стали после всех этапов обработки на производстве в металлургическом комбинате. Чтобы оптимизировать производственные расходы, металлургический комбинат решил уменьшить потребление электроэнергии на этапе обработки стали.
+* Стек технологий проекта - Matplotlib, NumPy, Pandas, Python, Seaborne, Scikit-learn
 
 9. Прогнозирование цены автомобиля с учетом пробега - [Ссылка](https://github.com/Dimo4ek/My-projects/tree/main/Prediction%20of%20the%20price%20of%20a%20car%20with%20mileage/ "Ссылка на проект - Прогнозирование цены автомобиля с учетом пробега")
-* Описание проекта -
-* Стек технологий проекта -
+* Описание проекта - Нам нужно построить модель для определения стоимости автомобилей. Сервис по продаже автомобилей с пробегом разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. В вашем распоряжении исторические данные: технические характеристики, комплектации и цены автомобилей.
+* Стек технологий проекта - CatBoost, LightGBM, Matplotlib, NumPy, Pandas, Python, Seaborn, Scikit-learn
 
 10. Переработка золотой руды - [Ссылка](https://github.com/Dimo4ek/My-projects/tree/main/Processing%20of%20gold%20ore/ "Ссылка на проект - Переработка золотой руды")
-* Описание проекта -
-* Стек технологий проекта -
+* Описание проекта - Требуется подготовить прототип модели машинного обучения для промышленного предприятия золотодобывающей отрасли. Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. Используем данные с параметрами добычи и очистки.
+* Стек технологий проекта - Matplotlib, NumPy, Pandas, Python, Seaborn, Scikit-learn
 
 11. Надежность заемщиков - [Ссылка](https://github.com/Dimo4ek/My-projects/tree/main/Reliability%20of%20borrowers/ "Ссылка на проект - Надежность заемщиков")
-* Описание проекта -
-* Стек технологий проекта -
+* Описание проекта - Кредитный отдел банка просит выяснить, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Для исследования предоставлены статистические данные о платежеспособности клиентов. По результатам исследования будет построена модель кредитного скоринга, которая позволит оценить способность потенциального заемщика погасить кредит банку.
+* Стек технологий проекта - Pandas, Pymystem3, Python
 
 12. Исследование тарифов мобильных операторов - [Ссылка](https://github.com/Dimo4ek/My-projects/tree/main/Research%20of%20mobile%20operator%20tariffs/ "Ссылка на проект - Исследование тарифов мобильных операторов")
-* Описание проекта -
-* Стек технологий проекта -
+* Описание проекта - Оператор сотовой связи предлагает клиентам два тарифных плана: «Смарт» и «Ультра». Чтобы решить на какой тариф выделить больше рекламный бюджет, требуется понять, какой тариф приносит больше денег. Нужно сделать предварительный анализ тарифов на небольшой выборке клиентов. В вашем распоряжении данные 500 клиентов: кто они, откуда, каким тарифом пользуются, сколько звонков и сообщений каждый отправил за 2018 год. Нужно проанализировать поведение клиентов и сделать вывод — какой тариф лучше.
+* Стек технологий проекта - Math, Matplotlib, NumPy, Pandas, Python, Seaborn, Scikit-учиться, Scipy 
 
 13. Исследование успеха игр - [Ссылка](https://github.com/Dimo4ek/My-projects/tree/main/Research%20on%20the%20success%20of%20games "Ссылка на проект - Исследование успеха игр")
-* Описание проекта -
-* Стек технологий проекта -
+* Описание проекта - Мы имеем исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (ПК, Xbox, PlayStation и тд). Нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании для продажи игр интернет-магазина на следующий год.
+* Стек технологий проекта - Matplotlib, NumPy, Pandas, Python, Seaborn, Scipy
 
 14. Рынок недвижимости Санкт-Петербурга - [Ссылка](https://github.com/Dimo4ek/My-projects/tree/main/St.%20Petersburg%20real%20estate%20market/ "Ссылка на проект - Рынок недвижимости Санкт-Петербурга")
-* Описание проекта -
-* Стек технологий проекта -
+* Описание проекта - У нас имеется архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет. Нужно научиться определять рыночную стоимость объектов недвижимости. Задача — установить параметры. Это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность.
+* Стек технологий проекта - Matplotlib, Pandas, Python
 
 ### Используемые библиотеки и инструменты в проектах
 * CatBoost
