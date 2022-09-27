@@ -9,7 +9,7 @@ The value of the RMSE metric in the test sample should be no more than 48.
 
 ### Libraries used in the study
 * CatBoost
-* Lightdm
+* LightGBM
 * Matplotlib
 * NumPy
 * Pandas
@@ -41,7 +41,7 @@ The best results were obtained by the LGBMRegressor model(n_estimators=50) with 
 
 ### Используемые библиотеки в исследовании
 * CatBoost
-* Lightdm
+* LightGBM
 * Matplotlib
 * NumPy
 * Pandas
