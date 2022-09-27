@@ -27,8 +27,8 @@ These are my educational projects that were carried out during my studies at Yan
 * Project technology stack - CatBoost, LightGBM, nltk, NumPy, Pandas, Python, Scikit-learn, re, Space, Torch, Transformers
 
 7. Mobile tariff recommendation - [Link](https://github.com/Dimo4ek/My-projects/tree/main/Mobile%20tariff%20recommendation/ "Link to the project - Mobile tariff recommendation")
-* Project description - 
-* Project technology stack -
+* Project description - The mobile operator found out that many customers use archive tariffs. They want to build a system capable of analyzing customer behavior and offering users a new tariff: "Smart" or "Ultra". Build a model with the highest possible accuracy value.
+* Project technology stack - NumPy, Pandas, Python, Scikit-learn
 
 8. Optimization of expenses at the metallurgical plant - [Link](https://github.com/Dimo4ek/My-projects/tree/main/Optimization%20of%20expenses%20at%20the%20metallurgical%20plant/ "Link to the project - Optimization of expenses at the metallurgical plant")
 * Project description - 
@@ -100,8 +100,8 @@ These are my educational projects that were carried out during my studies at Yan
 * Стек технологий проекта - CatBoost, LightGBM, nltk, NumPy, Pandas, Python, Scikit-learn, re, Space, Torch, Transformers
 
 7. Рекомендация по мобильному тарифу - [Ссылка](https://github.com/Dimo4ek/My-projects/tree/main/Mobile%20tariff%20recommendation/ "Ссылка на проект - Рекомендация по мобильному тарифу")
-* Описание проекта -
-* Стек технологий проекта -
+* Описание проекта -Оператор мобильной связи выяснил: многие клиенты пользуются архивными тарифами. Они хотят построить систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф: «Смарт» или «Ультра». Постройте модель с максимально большим значением точность.
+* Стек технологий проекта - NumPy, Pandas, Python, Scikit-learn
 
 8. Оптимизация затрат на металлургическом заводе - [Ссылка](https://github.com/Dimo4ek/My-projects/tree/main/Optimization%20of%20expenses%20at%20the%20metallurgical%20plant/ "Ссылка на проект -  Оптимизация затрат на металлургическом заводе")
 * Описание проекта -
