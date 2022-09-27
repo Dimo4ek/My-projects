@@ -23,8 +23,8 @@ These are my educational projects that were carried out during my studies at Yan
 * Project technology stack - CatBoost, LightGBM, Matplotlib, NumPy, Pandas, Python, Scikit-learn, Statsmodels
 
 6. Identifying negative user comments - [Link](https://github.com/Dimo4ek/My-projects/tree/main/Identifying%20negative%20user%20comments/ "Link to the project - Identifying negative user comments")
-* Project description - 
-* Project technology stack -
+* Project description - It is required to train the model to classify comments into positive and negative. The customer is an online store that launches a new service. Now users can edit and supplement product descriptions, as in wiki communities. That is, clients offer their edits and comment on the changes of others. The store needs a tool that will search for toxic comments and send them for moderation.
+* Project technology stack - CatBoost, LightGBM, nltk, NumPy, Pandas, Python, Scikit-learn, re, Space, Torch, Transformers
 
 7. Mobile tariff recommendation - [Link](https://github.com/Dimo4ek/My-projects/tree/main/Mobile%20tariff%20recommendation/ "Link to the project - Mobile tariff recommendation")
 * Project description - 
@@ -96,8 +96,8 @@ These are my educational projects that were carried out during my studies at Yan
 * Стек технологий проекта - CatBoost, LightGBM, Matplotlib, NumPy, Pandas, Python, Scikit-learn, Statsmodels
 
 6. Выявление негативных комментариев пользователей - [Ссылка](https://github.com/Dimo4ek/My-projects/tree/main/Identifying%20negative%20user%20comments/ "Ссылка на проект - Выявление негативных комментариев пользователей")
-* Описание проекта -
-* Стек технологий проекта -
+* Описание проекта - Требуется обучить модель классифицировать комментарии на позитивные и негативные. Заказчик - это интернет-магазин, который запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. То есть клиенты предлагают свои правки и комментируют изменения других. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. 
+* Стек технологий проекта - CatBoost, LightGBM, nltk, NumPy, Pandas, Python, Scikit-learn, re, Space, Torch, Transformers
 
 7. Рекомендация по мобильному тарифу - [Ссылка](https://github.com/Dimo4ek/My-projects/tree/main/Mobile%20tariff%20recommendation/ "Ссылка на проект - Рекомендация по мобильному тарифу")
 * Описание проекта -
