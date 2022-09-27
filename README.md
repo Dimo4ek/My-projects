@@ -3,14 +3,16 @@
 
 These are my educational projects that were carried out during my studies at Yandex.Practicum:
 1. Age determination by photo - [Link](https://github.com/Dimo4ek/My-projects/tree/main/Age%20identification%20by%20photo/ "Link to the project - Age determination by photo")
-* Project description - 
-* Project technology stack -
+* Project description - It is required to build a model that can determine the approximate age of a person from a photo. The customer is a supermarket chain that implements a computer vision system for processing customer photos.
+* Project technology stack - Matplotlib, NumPy, Pandas, Python, Tensorflow.Keras
+
 2. Choosing an oil field - [Link](https://github.com/Dimo4ek/My-projects/tree/main/Choosing%20an%20oil%20field/ "Link to the project - Choosing an oil field")
-* Project description - 
-* Project technology stack -
+* Project description - The customer is an oil producing company. We need to decide for them where to drill a new well. We were provided with oil samples in three regions: in each 100,000 fields, where the quality of oil and the volume of its reserves were measured. It is required to build a machine learning model that will help determine the region where mining will bring the greatest profit. It is required to analyze the possible profits and risks with the Bootstrap technique.
+* Project technology stack - Matplotlib, NumPy, Pandas, Python, Scikit-learn, SciPy
+
 3. Customer churn forecast - [Link](https://github.com/Dimo4ek/My-projects/tree/main/Customer%20churn%20forecast/ "Link to the project - Customer churn forecast")
-* Project description - 
-* Project technology stack -
+* Project description - Customers began to leave the customer's bank. The departure is not massive, but the rate of customer outflow has become greater than before. Bank marketers have calculated that it is cheaper to retain current customers than to attract new ones. It is necessary to predict whether the client will leave the bank in the near future or not. 
+* Project technology stack - Matplotlib, NumPy, Pandas, Python, Scikit-learn
 4. Encryption of customer data - [Link](https://github.com/Dimo4ek/My-projects/tree/main/Encryption%20of%20customer%20data/ "Link to the project - Encryption of customer data")
 * Project description - 
 * Project technology stack -
@@ -63,14 +65,14 @@ These are my educational projects that were carried out during my studies at Yan
 
 Это мои учебные проекты, которые выполнялись за время обучения в Яндекс.Практикуме:
 1. Определение возраста по фотографии - [Ссылка](https://github.com/Dimo4ek/My-projects/tree/main/Age%20identification%20by%20photo/ "Ссылка на проект -  Определение возраста по фотографии")
-* Описание проекта -
-* Стек технологий проекта -
+* Описание проекта - Требуется построить модель, которая по фотографии определить приблизительный возраст человека. Заказчик сетевой супермаркет, который внедряет систему компьютерного зрения для обработки фотографий покупателей.
+* Стек технологий проекта - Matplotlib, NumPy, Pandas, Python, Tensorflow.Keras
 2. Выбор нефтяного месторождения - [Ссылка](https://github.com/Dimo4ek/My-projects/tree/main/Choosing%20an%20oil%20field/ "Ссылка на проект - Выбор нефтяного месторождения")
-* Описание проекта -
-* Стек технологий проекта -
+* Описание проекта - Заказчик - нефтедобывающая компания. Нужно решить для них, где бурить новую скважину. Нам предоставлены пробы нефти в трёх регионах: в каждом 100 000 месторождений, где измерили качество нефти и объём её запасов. Требуется построить модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль. Требуется проанализировать возможную прибыль и риски техникой Bootstrap.
+* Стек технологий проекта - Matplotlib, NumPy, Pandas, Python, Scikit-learn, SciPy
 3. Прогноз оттока клиентов - [Ссылка](https://github.com/Dimo4ek/My-projects/tree/main/Customer%20churn%20forecast/ "Ссылка на проект - Прогноз оттока клиентов")
-* Описание проекта -
-* Стек технологий проекта -
+* Описание проекта - Из банка заказчика стали уходить клиенты. Уход не массовый, но скорость оттока клиентов стала больше, чем раньше. Банковские маркетологи посчитали: сохранять текущих клиентов дешевле, чем привлекать новых. Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет.
+* Стек технологий проекта - Matplotlib, NumPy, Pandas, Python, Scikit-learn
 4. Шифрование клиентских данных - [Ссылка](https://github.com/Dimo4ek/My-projects/tree/main/Encryption%20of%20customer%20data/ "Ссылка на проект - Шифрование клиентских данных")
 * Описание проекта -
 * Стек технологий проекта -
