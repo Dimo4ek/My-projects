@@ -11,7 +11,7 @@ The requirement for the model is that the value of the F1 quality metric is not 
 
 ### Libraries used in the study
 * CatBoost
-* Lightdm
+* LightGBM
 * nltk
 * NumPy
 * Pandas
@@ -46,7 +46,7 @@ The remaining models did not reach the desired indicator, both with a balance of
 
 ### Используемые библиотеки в исследовании
 * CatBoost
-* Lightdm
+* LightGBM
 * nltk
 * NumPy
 * Pandas
