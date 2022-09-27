@@ -61,14 +61,23 @@ These are my educational projects that were carried out during my studies at Yan
 ### Libraries and tools used in projects
 * CatBoost
 * LightGBM
+* Math
 * Matplotlib
 * nltk
 * NumPy
 * Pandas
+* Pymystem3
 * Python
+* re
 * SciPy
 * Scikit-learn
+* Seaborn
+* Space
+* Statsmodels
 * Tensorflow.Keras
+* Torch
+* Transformers
+
 
 <br>
 
@@ -121,7 +130,7 @@ These are my educational projects that were carried out during my studies at Yan
 
 12. Исследование тарифов мобильных операторов - [Ссылка](https://github.com/Dimo4ek/My-projects/tree/main/Research%20of%20mobile%20operator%20tariffs/ "Ссылка на проект - Исследование тарифов мобильных операторов")
 * Описание проекта - Оператор сотовой связи предлагает клиентам два тарифных плана: «Смарт» и «Ультра». Чтобы решить на какой тариф выделить больше рекламный бюджет, требуется понять, какой тариф приносит больше денег. Нужно сделать предварительный анализ тарифов на небольшой выборке клиентов. В вашем распоряжении данные 500 клиентов: кто они, откуда, каким тарифом пользуются, сколько звонков и сообщений каждый отправил за 2018 год. Нужно проанализировать поведение клиентов и сделать вывод — какой тариф лучше.
-* Стек технологий проекта - Math, Matplotlib, NumPy, Pandas, Python, Seaborn, Scikit-учиться, Scipy 
+* Стек технологий проекта - Math, Matplotlib, NumPy, Pandas, Python, Seaborn, Scikit-learn, Scipy 
 
 13. Исследование успеха игр - [Ссылка](https://github.com/Dimo4ek/My-projects/tree/main/Research%20on%20the%20success%20of%20games "Ссылка на проект - Исследование успеха игр")
 * Описание проекта - Мы имеем исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (ПК, Xbox, PlayStation и тд). Нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании для продажи игр интернет-магазина на следующий год.
@@ -134,11 +143,19 @@ These are my educational projects that were carried out during my studies at Yan
 ### Используемые библиотеки и инструменты в проектах
 * CatBoost
 * LightGBM
+* Math
 * Matplotlib
 * nltk
 * NumPy
 * Pandas
+* Pymystem3
 * Python
+* re
 * SciPy
 * Scikit-learn
+* Seaborn
+* Space
+* Statsmodels
 * Tensorflow.Keras
+* Torch
+* Transformers
